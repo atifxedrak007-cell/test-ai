@@ -1,0 +1,249 @@
+{
+  "models": [
+    {
+      "name": "gemini-3.6-flash:free",
+      "provider": "openai-compatible",
+      "base_url": "https://api.unorouter.com/v1",
+      "model_id": "gemini-3.6-flash:free",
+      "api_key_env": "UNOROUTER_API_KEY",
+      "enabled": true
+    },
+    {
+      "name": "nemotron-3.5-lightning-30b-a3b:free",
+      "provider": "openai-compatible",
+      "base_url": "https://api.unorouter.com/v1",
+      "model_id": "nemotron-3.5-lightning-30b-a3b:free",
+      "api_key_env": "UNOROUTER_API_KEY",
+      "enabled": true
+    },
+    {
+      "name": "qwen3.6-plus:free",
+      "provider": "openai-compatible",
+      "base_url": "https://api.unorouter.com/v1",
+      "model_id": "qwen3.6-plus:free",
+      "api_key_env": "UNOROUTER_API_KEY",
+      "enabled": true
+    },
+    {
+      "name": "north-mini-code:free",
+      "provider": "openai-compatible",
+      "base_url": "https://api.unorouter.com/v1",
+      "model_id": "north-mini-code:free",
+      "api_key_env": "UNOROUTER_API_KEY",
+      "enabled": false
+    },
+    {
+      "name": "agnes-2.5-flash:free",
+      "provider": "openai-compatible",
+      "base_url": "https://api.unorouter.com/v1",
+      "model_id": "agnes-2.5-flash:free",
+      "api_key_env": "UNOROUTER_API_KEY",
+      "enabled": false
+    },
+    {
+      "name": "nemotron-3-ultra-550b-a55b:free",
+      "provider": "openai-compatible",
+      "base_url": "https://api.unorouter.com/v1",
+      "model_id": "nemotron-3-ultra-550b-a55b:free",
+      "api_key_env": "UNOROUTER_API_KEY",
+      "enabled": false
+    },
+    {
+      "name": "laguna-xs-2.1:free",
+      "provider": "openai-compatible",
+      "base_url": "https://api.unorouter.com/v1",
+      "model_id": "laguna-xs-2.1:free",
+      "api_key_env": "UNOROUTER_API_KEY",
+      "enabled": false
+    },
+    {
+      "name": "gemini-3.5-flash-lite:free",
+      "provider": "openai-compatible",
+      "base_url": "https://api.unorouter.com/v1",
+      "model_id": "gemini-3.5-flash-lite:free",
+      "api_key_env": "UNOROUTER_API_KEY",
+      "enabled": false
+    },
+    {
+      "name": "apertus-v1.5-70b:free",
+      "provider": "openai-compatible",
+      "base_url": "https://api.unorouter.com/v1",
+      "model_id": "apertus-v1.5-70b:free",
+      "api_key_env": "UNOROUTER_API_KEY",
+      "enabled": false
+    },
+    {
+      "name": "laguna-s-2.1:free",
+      "provider": "openai-compatible",
+      "base_url": "https://api.unorouter.com/v1",
+      "model_id": "laguna-s-2.1:free",
+      "api_key_env": "UNOROUTER_API_KEY",
+      "enabled": false
+    },
+    {
+      "name": "muse-glimmer-30b:free",
+      "provider": "openai-compatible",
+      "base_url": "https://api.unorouter.com/v1",
+      "model_id": "muse-glimmer-30b:free",
+      "api_key_env": "UNOROUTER_API_KEY",
+      "enabled": false
+    },
+    {
+      "name": "lfm-2.5-2.6b:free",
+      "provider": "openai-compatible",
+      "base_url": "https://api.unorouter.com/v1",
+      "model_id": "lfm-2.5-2.6b:free",
+      "api_key_env": "UNOROUTER_API_KEY",
+      "enabled": false
+    },
+    {
+      "name": "sensenova-6.8-flash-lite:free",
+      "provider": "openai-compatible",
+      "base_url": "https://api.unorouter.com/v1",
+      "model_id": "sensenova-6.8-flash-lite:free",
+      "api_key_env": "UNOROUTER_API_KEY",
+      "enabled": false
+    },
+    {
+      "name": "nemotron-3.5-lightning:free",
+      "provider": "openai-compatible",
+      "base_url": "https://api.unorouter.com/v1",
+      "model_id": "nemotron-3.5-lightning:free",
+      "api_key_env": "UNOROUTER_API_KEY",
+      "enabled": false
+    },
+    {
+      "name": "dots-3-note-preview:free",
+      "provider": "openai-compatible",
+      "base_url": "https://api.unorouter.com/v1",
+      "model_id": "dots-3-note-preview:free",
+      "api_key_env": "UNOROUTER_API_KEY",
+      "enabled": false
+    },
+    {
+      "name": "k2-horizon:free",
+      "provider": "openai-compatible",
+      "base_url": "https://api.unorouter.com/v1",
+      "model_id": "k2-horizon:free",
+      "api_key_env": "UNOROUTER_API_KEY",
+      "enabled": false
+    },
+    {
+      "name": "ling-3.0-flash-sante:free",
+      "provider": "openai-compatible",
+      "base_url": "https://api.unorouter.com/v1",
+      "model_id": "ling-3.0-flash-sante:free",
+      "api_key_env": "UNOROUTER_API_KEY",
+      "enabled": false
+    },
+    {
+      "name": "agnes-3.0-flash:free",
+      "provider": "openai-compatible",
+      "base_url": "https://api.unorouter.com/v1",
+      "model_id": "agnes-3.0-flash:free",
+      "api_key_env": "UNOROUTER_API_KEY",
+      "enabled": false
+    },
+    {
+      "name": "mercury-decide:free",
+      "provider": "openai-compatible",
+      "base_url": "https://api.unorouter.com/v1",
+      "model_id": "mercury-decide:free",
+      "api_key_env": "UNOROUTER_API_KEY",
+      "enabled": false
+    },
+    {
+      "name": "step-5-preview:free",
+      "provider": "openai-compatible",
+      "base_url": "https://api.unorouter.com/v1",
+      "model_id": "step-5-preview:free",
+      "api_key_env": "UNOROUTER_API_KEY",
+      "enabled": false
+    },
+    {
+      "name": "qwen-sea-lion-v4-32b-it:free",
+      "provider": "openai-compatible",
+      "base_url": "https://api.unorouter.com/v1",
+      "model_id": "qwen-sea-lion-v4-32b-it:free",
+      "api_key_env": "UNOROUTER_API_KEY",
+      "enabled": false
+    },
+    {
+      "name": "granite-4.0-micro:free",
+      "provider": "openai-compatible",
+      "base_url": "https://api.unorouter.com/v1",
+      "model_id": "granite-4.0-micro:free",
+      "api_key_env": "UNOROUTER_API_KEY",
+      "enabled": false
+    },
+    {
+      "name": "gpt-oss-safeguard-20b:free",
+      "provider": "openai-compatible",
+      "base_url": "https://api.unorouter.com/v1",
+      "model_id": "gpt-oss-safeguard-20b:free",
+      "api_key_env": "UNOROUTER_API_KEY",
+      "enabled": false
+    },
+    {
+      "name": "villanova-2b-2512-preview-apnea-ft:free",
+      "provider": "openai-compatible",
+      "base_url": "https://api.unorouter.com/v1",
+      "model_id": "villanova-2b-2512-preview-apnea-ft:free",
+      "api_key_env": "UNOROUTER_API_KEY",
+      "enabled": false
+    },
+    {
+      "name": "glm-4.7-flash:free",
+      "provider": "openai-compatible",
+      "base_url": "https://api.unorouter.com/v1",
+      "model_id": "glm-4.7-flash:free",
+      "api_key_env": "UNOROUTER_API_KEY",
+      "enabled": false
+    },
+    {
+      "name": "typhoon-v2.5-30b-a3b-instruct:free",
+      "provider": "openai-compatible",
+      "base_url": "https://api.unorouter.com/v1",
+      "model_id": "typhoon-v2.5-30b-a3b-instruct:free",
+      "api_key_env": "UNOROUTER_API_KEY",
+      "enabled": false
+    },
+    {
+      "name": "qwen-sea-lion-v4.5-27b-it:free",
+      "provider": "openai-compatible",
+      "base_url": "https://api.unorouter.com/v1",
+      "model_id": "qwen-sea-lion-v4.5-27b-it:free",
+      "api_key_env": "UNOROUTER_API_KEY",
+      "enabled": false
+    },
+    {
+      "name": "qwen3.5-4b:free",
+      "provider": "openai-compatible",
+      "base_url": "https://api.unorouter.com/v1",
+      "model_id": "qwen3.5-4b:free",
+      "api_key_env": "UNOROUTER_API_KEY",
+      "enabled": false
+    },
+    {
+      "name": "nemotron-3-super-120b-a12b:free",
+      "provider": "openai-compatible",
+      "base_url": "https://api.unorouter.com/v1",
+      "model_id": "nemotron-3-super-120b-a12b:free",
+      "api_key_env": "UNOROUTER_API_KEY",
+      "enabled": false
+    },
+    {
+      "name": "minimax-m2.7:free",
+      "provider": "openai-compatible",
+      "base_url": "https://api.unorouter.com/v1",
+      "model_id": "minimax-m2.7:free",
+      "api_key_env": "UNOROUTER_API_KEY",
+      "enabled": false
+    }
+  ],
+  "assignments": {
+    "backend_reviewer": "nemotron-3.5-lightning-30b-a3b:free",
+    "syntax_reviewer": "qwen3.6-plus:free",
+    "workflow_runner": "gemini-3.6-flash:free"
+  }
+}
